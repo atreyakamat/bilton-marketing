@@ -52,7 +52,7 @@ export default function ContactPage() {
             transition={{ duration: 0.8 }}
           >
             <h1 className="heading-xl mb-6">
-              Let's start something <br />
+              Let&apos;s start something <br />
               <span className="text-bilton-orange">impactful</span>
             </h1>
           </motion.div>
@@ -63,7 +63,7 @@ export default function ContactPage() {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="body-lg text-gray-600"
           >
-            Whether you need brand strategy, community marketing, or a complete digital ecosystem, we're here to help.
+            Whether you need brand strategy, community marketing, or a complete digital ecosystem, we&apos;re here to help.
           </motion.p>
         </div>
       </section>
@@ -181,7 +181,7 @@ export default function ContactPage() {
                   as="h2"
                 />
                 <AnimatedText
-                  text="We're always excited to hear about new projects and partnerships. Drop us a message and we'll get back to you within 24 hours."
+                  text="We&apos;re always excited to hear about new projects and partnerships. Drop us a message and we&apos;ll get back to you within 24 hours."
                   className="body-md text-gray-600 mb-8"
                   delay={0.2}
                   as="p"

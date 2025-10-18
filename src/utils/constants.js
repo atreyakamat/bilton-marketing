@@ -3,8 +3,8 @@
 // Parent Brand Configuration
 export const SITE_CONFIG = {
   name: 'Bilton Technologies',
-  tagline: 'Innovating the Digital Tomorrow.',
-  description: "A Goa-based digital innovation company building smart brands, systems, and marketing solutions that scale.",
+  tagline: 'Brands. Communities. Mastered.',
+  description: 'Bilton Technologies is an India-built tech company combining social media marketing and community software for measurable growth.',
   email: 'connect.bilton@gmail.com',
   phone: '+91 XXXXX XXXXX', // Add actual phone number
   location: 'Goa, India',
@@ -29,8 +29,8 @@ export const DIVISIONS = [
   {
     name: 'Bilton Marketing',
     slug: 'marketing',
-    tagline: 'Make Brands Move',
-    description: 'Building your brand\'s digital movement through strategy, content, and campaigns.',
+    tagline: 'Growth Without Noise',
+    description: 'Data-driven social media marketing for India that turns attention into repeatable results.',
     color: '#FFA64D', // Orange
     icon: 'Rocket',
     features: [
@@ -43,8 +43,8 @@ export const DIVISIONS = [
   {
     name: 'ColonyOne',
     slug: 'colonyone',
-    tagline: 'Smart Marketing for Smart Communities',
-    description: 'A marketing platform for residential communities and societies.',
+    tagline: 'Communities Made Simple',
+    description: 'White-label SaaS that streamlines Indian housing society operations from one dashboard.',
     color: '#0066CC', // Blue
     icon: 'Building2',
     features: [
@@ -59,47 +59,47 @@ export const DIVISIONS = [
 // Marketing Division Services
 export const MARKETING_SERVICES = [
   {
-    title: 'Social Media Management',
-    description: 'We plan, design, and manage your brand\'s social presence with consistency and data.',
-    icon: 'Share2',
-    features: [
-      'Content planning & scheduling',
-      'Community management',
-      'Analytics & reporting',
-      'Platform optimization',
-    ],
-  },
-  {
-    title: 'Campaign Strategy & Ads',
-    description: 'Performance-backed ads that build recognition and results.',
+    title: 'Strategy That Works',
+    description: 'Custom social roadmaps for Instagram, LinkedIn, and emerging platforms so every activity supports a measurable KPI.',
     icon: 'Target',
     features: [
-      'Paid social advertising',
-      'Campaign strategy',
-      'A/B testing & optimization',
-      'ROI tracking',
+      'Audience & channel prioritisation',
+      'Objective-led content calendars',
+      'Campaign roadmaps for India-first platforms',
+      'Always-on optimisation loops',
     ],
   },
   {
-    title: 'Brand Consulting',
-    description: 'We help shape your brand identity and growth roadmap.',
-    icon: 'Lightbulb',
+    title: 'Content That Converts',
+    description: 'Stories, reels, polls, and UGC formats engineered for retention and saves — not vanity metrics.',
+    icon: 'Clapperboard',
     features: [
-      'Brand strategy',
-      'Positioning & messaging',
-      'Visual identity',
-      'Growth roadmap',
+      'Interactive polls and quizzes',
+      'Creator-led collaborations',
+      'Short-form video & reel playbooks',
+      'Brand voice & copy frameworks',
     ],
   },
   {
-    title: 'Content Production',
-    description: 'Professional photos, reels, and motion edits for social impact.',
-    icon: 'Video',
+    title: 'Monetisation Guidance',
+    description: 'Playbooks to turn engaged audiences into revenue via commerce, affiliates, and influencer partnerships.',
+    icon: 'Coins',
     features: [
-      'Photography & videography',
-      'Reel production',
-      'Motion graphics',
-      'Post-production editing',
+      'Influencer & creator fit mapping',
+      'Revenue model experimentation',
+      'Community-to-commerce funnels',
+      'Partnership & sponsorship playbooks',
+    ],
+  },
+  {
+    title: 'Analytics & Insights',
+    description: 'Measurement suites that separate signal from noise with iterative experiments and ROI tracking.',
+    icon: 'LineChart',
+    features: [
+      'Full-funnel performance dashboards',
+      'Attribution & cohort analysis',
+      'Campaign retrospectives & pilots',
+      'Actionable monthly growth labs',
     ],
   },
 ];
@@ -153,24 +153,24 @@ export const PORTFOLIO_ITEMS = [
 
 export const COLONYONE_FEATURES = [
   {
-    title: 'Community Newsletter Campaigns',
-    description: 'Engaging email and WhatsApp campaigns for your residents.',
-    icon: 'Mail',
+    title: 'Amenity Booking',
+    description: 'Residents reserve gyms, halls, and courts in seconds with automated approvals.',
+    icon: 'CalendarCheck2',
   },
   {
-    title: 'Resident Engagement Tools',
-    description: 'Interactive content that builds community connection.',
-    icon: 'Users',
+    title: 'Parking & Visitors',
+    description: 'Digital vehicle passes, real-time visitor alerts, and lobby-ready verification logs.',
+    icon: 'Car',
   },
   {
-    title: 'Visual Branding for Colonies',
-    description: 'Professional branding that elevates your property.',
-    icon: 'Palette',
+    title: 'Maintenance & Payments',
+    description: 'Track service requests, reconcile dues, and settle invoices without spreadsheets.',
+    icon: 'Wallet',
   },
   {
-    title: 'Property Promotion Partnerships',
-    description: 'Strategic marketing for property sales and rentals.',
-    icon: 'Building',
+    title: 'Community Messaging',
+    description: 'Broadcast announcements and targeted notices without drowning in chat threads.',
+    icon: 'Megaphone',
   },
 ];
 

@@ -6,14 +6,18 @@ import '@/styles/globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Bilton Technologies | Innovating the Digital Tomorrow',
-  description: "A Goa-based digital innovation company building smart brands, systems, and marketing solutions that scale.",
-  keywords: 'Bilton Technologies, Bilton Marketing, ColonyOne, Digital Marketing Goa, Brand Strategy, Community Marketing',
+  title: 'Bilton Technologies | Social Media Marketing & Society Management Software India',
+  description:
+    'Bilton Technologies delivers data-driven social media marketing and ColonyOne society management software for Indian businesses and communities.',
+  keywords:
+    'social media marketing India, society management software India, Bilton Technologies, Bilton Marketing, ColonyOne, community management platform',
   authors: [{ name: 'Bilton Technologies' }],
   openGraph: {
-    title: 'Bilton Technologies | Innovating the Digital Tomorrow',
-    description: "A Goa-based digital innovation company building smart brands, systems, and marketing solutions that scale.",
+    title: 'Bilton Technologies | Social Media Marketing & Society Management Software India',
+    description:
+      'Bilton Technologies delivers data-driven social media marketing and ColonyOne society management software for Indian businesses and communities.',
     type: 'website',
+    url: 'https://www.biltontechnologies.com',
   },
 };
 
